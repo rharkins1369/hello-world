@@ -1,3 +1,3 @@
 # hello-world
 Dem repository
-I am Rich ad I am awesome!
+I am Rich and I am awesome!
